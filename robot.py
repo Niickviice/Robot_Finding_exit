@@ -1,7 +1,6 @@
-#
-#   Alan Martínez Ruiz 
-#   2183076595
-#   Hill climbing 
+
+#  Best search 
+
 #
 ########################
 
